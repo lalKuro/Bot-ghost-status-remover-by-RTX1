@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["/ping | yannick_013"];
+const statusMessages = ["Köln RP V3 | German"];
 
 
 let currentIndex = 0;
