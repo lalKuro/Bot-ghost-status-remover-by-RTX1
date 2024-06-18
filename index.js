@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["BRP | ERLC | Teammanagement"];
+const statusMessages = ["BRP | ERLC | Community "];
 
 
 let currentIndex = 0;
